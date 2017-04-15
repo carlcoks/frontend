@@ -1,3 +1,3 @@
-function MinusNumber(a, b){
+function MinussNumber(a, b){
 	return a - b;
 }
